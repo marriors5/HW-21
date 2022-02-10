@@ -1,0 +1,46 @@
+.navie h4 {
+    text-align: center !important;
+}
+
+
+/*.protoypedisplay {
+    height: 20px !important;
+    text-align: center;
+    margin: 0 auto;
+}*/
+
+.carousel-item {
+    margin: 0 auto;
+}
+
+#Titleimg {
+    height: 50vh;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
+.d-block {
+    margin: 0 auto;
+}
+
+.caption {
+    background-color: rgb(128, 128, 128, 0.7);
+}
+
+.researchimg {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
+.prototypedisplay img {
+    width: 50%;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
